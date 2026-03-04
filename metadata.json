@@ -1,0 +1,5 @@
+{
+  "name": "Monitor Deportistas Pro",
+  "description": "Una aplicación completa de monitorización deportiva que incluye gestión de usuarios, visualización de ECG en tiempo real, cuestionarios de fatiga y exportación de datos, replicando y mejorando la funcionalidad solicitada.",
+  "requestFramePermissions": []
+}
